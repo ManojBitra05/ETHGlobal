@@ -1,0 +1,1032 @@
+.loginscreen-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.loginscreen-loginscreen {
+  width: 100%;
+  height: 852px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 16px;
+  background-color: var(--dl-color-gery-dark100);
+}
+.loginscreen-status-bari-phone13 {
+  top: 0px;
+  left: 17px;
+  width: 360px;
+  height: 42.922664642333984px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-self: stretch;
+  align-items: flex-start;
+}
+.loginscreen-left-side {
+  top: 14px;
+  left: 22px;
+  width: 54px;
+  height: 21px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.loginscreen-frame-status-bartime {
+  top: 0px;
+  left: 0px;
+  width: 54px;
+  height: 21px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 24px;
+}
+.loginscreen-text10 {
+  top: 1px;
+  color: rgba(36, 36, 36, 1);
+  width: 54px;
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: 22px;
+}
+.loginscreen-right-side {
+  top: 19px;
+  left: 261px;
+  width: 77.40119171142578px;
+  height: 13px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.loginscreen-battery {
+  top: 0px;
+  left: 50px;
+  width: 27.401193618774414px;
+  height: 13px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.loginscreen-outline {
+  top: 0px;
+  left: 0px;
+  width: 25px;
+  height: 13px;
+  opacity: 0.35;
+  position: absolute;
+}
+.loginscreen-battery-end {
+  top: 5px;
+  left: 26px;
+  width: 1px;
+  height: 4px;
+  opacity: 0.40;
+  position: absolute;
+}
+.loginscreen-fill {
+  top: 2px;
+  left: 2px;
+  width: 21px;
+  height: 9px;
+  position: absolute;
+}
+.loginscreen-wifi {
+  top: 1.0000001192092896px;
+  left: 26px;
+  width: 17px;
+  height: 12px;
+  position: absolute;
+}
+.loginscreen-icon-mobile-signal {
+  top: 1px;
+  left: 0px;
+  width: 18px;
+  height: 12px;
+  position: absolute;
+}
+.loginscreen-rectangle24 {
+  top: 848px;
+  left: 145px;
+  width: 103px;
+  height: 4px;
+  position: absolute;
+  border-radius: 30px;
+}
+.loginscreen-byerafiki {
+  top: 97.9800033569336px;
+  left: 44.00004196166992px;
+  width: 305.6666564941406px;
+  height: 288.536376953125px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.loginscreen-backgroundcomplete {
+  top: 254.39892578125px;
+  left: 0px;
+  width: 305.6666564941406px;
+  height: 14.23193645477295px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.loginscreen-vector10 {
+  top: 12.326008796691895px;
+  left: 280.19451904296875px;
+  width: 25px;
+  height: 1px;
+  position: absolute;
+}
+.loginscreen-vector11 {
+  top: 9.977677345275879px;
+  left: 159.87045288085938px;
+  width: 10px;
+  height: 1px;
+  position: absolute;
+}
+.loginscreen-vector12 {
+  top: 10.772958755493164px;
+  left: 207.70799255371094px;
+  width: 21px;
+  height: 1px;
+  position: absolute;
+}
+.loginscreen-vector13 {
+  top: 5.363138675689697px;
+  left: 236.27163696289062px;
+  width: 43px;
+  height: 1px;
+  position: absolute;
+}
+.loginscreen-vector14 {
+  top: 14.044198036193848px;
+  left: -3.178914482759865e-7px;
+  width: 20px;
+  height: 1px;
+  position: absolute;
+}
+.loginscreen-vector15 {
+  top: 14.044198036193848px;
+  left: 27.24882698059082px;
+  width: 18px;
+  height: 1px;
+  position: absolute;
+}
+.loginscreen-vector16 {
+  top: 9.887784004211426px;
+  left: 60.40400314331055px;
+  width: 47px;
+  height: 1px;
+  position: absolute;
+}
+.loginscreen-shadow {
+  top: 271.5495300292969px;
+  left: 2.8071069717407227px;
+  width: 298.2372741699219px;
+  height: 16.98683738708496px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.loginscreen-path {
+  top: 0px;
+  left: 0px;
+  width: 298px;
+  height: 17px;
+  position: absolute;
+}
+.loginscreen-character1 {
+  top: 17.48752784729004px;
+  left: 62.47008514404297px;
+  width: 71.6698989868164px;
+  height: 262.5519714355469px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.loginscreen-vector17 {
+  top: 18.955839157104492px;
+  left: 33.642635345458984px;
+  width: 36px;
+  height: 33px;
+  position: absolute;
+}
+.loginscreen-vector18 {
+  top: 253.73931884765625px;
+  left: 44.56232452392578px;
+  width: 20px;
+  height: 9px;
+  position: absolute;
+}
+.loginscreen-vector19 {
+  top: 223.38214111328125px;
+  left: 38.15111541748047px;
+  width: 14px;
+  height: 19px;
+  position: absolute;
+}
+.loginscreen-vector20 {
+  top: 102.31319427490234px;
+  left: -0.00011079446994699538px;
+  width: 47px;
+  height: 127px;
+  position: absolute;
+}
+.loginscreen-vector21 {
+  top: 103.59634399414062px;
+  left: 27.690101623535156px;
+  width: 37px;
+  height: 151px;
+  position: absolute;
+}
+.loginscreen-vector22 {
+  top: 246.23599243164062px;
+  left: 52.65693283081055px;
+  width: 11px;
+  height: 9px;
+  position: absolute;
+}
+.loginscreen-vector23 {
+  top: 217.377685546875px;
+  left: 34.740177154541016px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.loginscreen-vector24 {
+  top: 8.379023551940918px;
+  left: 21.69820785522461px;
+  width: 17px;
+  height: 60px;
+  position: absolute;
+}
+.loginscreen-vector25 {
+  top: 0.00005059757313574664px;
+  left: 33.177589416503906px;
+  width: 10px;
+  height: 14px;
+  position: absolute;
+}
+.loginscreen-vector26 {
+  top: 50.48164367675781px;
+  left: 22.841026306152344px;
+  width: 18px;
+  height: 22px;
+  position: absolute;
+}
+.loginscreen-vector27 {
+  top: 56.161590576171875px;
+  left: 19.399145126342773px;
+  width: 45px;
+  height: 51px;
+  position: absolute;
+}
+.loginscreen-vector28 {
+  top: 42.6342658996582px;
+  left: 38.51013946533203px;
+  width: 18px;
+  height: 19px;
+  position: absolute;
+}
+.loginscreen-vector29 {
+  top: 56.8525505065918px;
+  left: 41.5490837097168px;
+  width: 14px;
+  height: 9px;
+  position: absolute;
+}
+.loginscreen-vector30 {
+  top: 55.7471923828125px;
+  left: 34.38115692138672px;
+  width: 7px;
+  height: 8px;
+  position: absolute;
+}
+.loginscreen-vector31 {
+  top: 45.042747497558594px;
+  left: 45.53291320800781px;
+  width: 6px;
+  height: 6px;
+  opacity: 0.20;
+  position: absolute;
+}
+.loginscreen-vector32 {
+  top: 21.075777053833008px;
+  left: 38.03804016113281px;
+  width: 24px;
+  height: 28px;
+  position: absolute;
+}
+.loginscreen-vector33 {
+  top: 23.882232666015625px;
+  left: 57.07372283935547px;
+  width: 8px;
+  height: 14px;
+  position: absolute;
+}
+.loginscreen-vector34 {
+  top: 18.36343002319336px;
+  left: 37.665138244628906px;
+  width: 26px;
+  height: 8px;
+  position: absolute;
+}
+.loginscreen-vector35 {
+  top: 17.99431037902832px;
+  left: 40.57235336303711px;
+  width: 20px;
+  height: 3px;
+  position: absolute;
+}
+.loginscreen-vector36 {
+  top: 32.63343048095703px;
+  left: 50.42316818237305px;
+  width: 2px;
+  height: 2px;
+  position: absolute;
+}
+.loginscreen-vector37 {
+  top: 30.609827041625977px;
+  left: 42.6771125793457px;
+  width: 2px;
+  height: 2px;
+  position: absolute;
+}
+.loginscreen-vector38 {
+  top: 29.946611404418945px;
+  left: 42.65641403198242px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.loginscreen-vector39 {
+  top: 33.75809860229492px;
+  left: 42.76425552368164px;
+  width: 3px;
+  height: 4px;
+  position: absolute;
+}
+.loginscreen-vector40 {
+  top: 39.519283294677734px;
+  left: 46.45344543457031px;
+  width: 5px;
+  height: 2px;
+  position: absolute;
+}
+.loginscreen-vector41 {
+  top: 36.28377914428711px;
+  left: 56.003936767578125px;
+  width: 7px;
+  height: 7px;
+  position: absolute;
+}
+.loginscreen-vector42 {
+  top: 27.320608139038086px;
+  left: 52.008506774902344px;
+  width: 3px;
+  height: 2px;
+  position: absolute;
+}
+.loginscreen-vector43 {
+  top: 26.14111328125px;
+  left: 42.293521881103516px;
+  width: 4px;
+  height: 2px;
+  position: absolute;
+}
+.loginscreen-vector44 {
+  top: 31.972436904907227px;
+  left: 50.43181610107422px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.loginscreen-vector45 {
+  top: 102.95909881591797px;
+  left: 41.95656967163086px;
+  width: 13px;
+  height: 9px;
+  position: absolute;
+}
+.loginscreen-vector46 {
+  top: 66.16663360595703px;
+  left: 48.23786544799805px;
+  width: 23px;
+  height: 42px;
+  position: absolute;
+}
+.loginscreen-vector47 {
+  top: 59.37356185913086px;
+  left: 56.13111877441406px;
+  width: 13px;
+  height: 21px;
+  position: absolute;
+}
+.loginscreen-character2 {
+  top: 0px;
+  left: 139.34884643554688px;
+  width: 118.2150650024414px;
+  height: 280.04296875px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.loginscreen-vector48 {
+  top: 247.9598846435547px;
+  left: 92.3086166381836px;
+  width: 11px;
+  height: 19px;
+  position: absolute;
+}
+.loginscreen-vector49 {
+  top: 261.7016296386719px;
+  left: 94.1217041015625px;
+  width: 24px;
+  height: 10px;
+  position: absolute;
+}
+.loginscreen-vector50 {
+  top: 247.9598846435547px;
+  left: 92.3086166381836px;
+  width: 9px;
+  height: 11px;
+  opacity: 0.20;
+  position: absolute;
+}
+.loginscreen-vector51 {
+  top: 259.541748046875px;
+  left: 103.94111633300781px;
+  width: 4px;
+  height: 3px;
+  position: absolute;
+}
+.loginscreen-vector52 {
+  top: 258.3282775878906px;
+  left: 103.96910095214844px;
+  width: 2px;
+  height: 4px;
+  position: absolute;
+}
+.loginscreen-vector53 {
+  top: 108.49382781982422px;
+  left: 42.48712158203125px;
+  width: 60px;
+  height: 145px;
+  position: absolute;
+}
+.loginscreen-vector54 {
+  top: 127.63939666748047px;
+  left: 44.98639678955078px;
+  width: 16px;
+  height: 34px;
+  opacity: 0.20;
+  position: absolute;
+}
+.loginscreen-vector55 {
+  top: 247.7947540283203px;
+  left: 89.42460632324219px;
+  width: 15px;
+  height: 9px;
+  position: absolute;
+}
+.loginscreen-vector56 {
+  top: 256.4458312988281px;
+  left: 32.00426483154297px;
+  width: 9px;
+  height: 17px;
+  position: absolute;
+}
+.loginscreen-vector57 {
+  top: 271.43878173828125px;
+  left: 30.638933181762695px;
+  width: 19px;
+  height: 9px;
+  position: absolute;
+}
+.loginscreen-vector58 {
+  top: 256.4533996582031px;
+  left: 32.28866195678711px;
+  width: 9px;
+  height: 9px;
+  opacity: 0.20;
+  position: absolute;
+}
+.loginscreen-vector59 {
+  top: 269.0968933105469px;
+  left: 38.53105163574219px;
+  width: 4px;
+  height: 3px;
+  position: absolute;
+}
+.loginscreen-vector60 {
+  top: 268.1224670410156px;
+  left: 38.35768127441406px;
+  width: 2px;
+  height: 4px;
+  position: absolute;
+}
+.loginscreen-vector61 {
+  top: 111.45743560791016px;
+  left: 25.420143127441406px;
+  width: 30px;
+  height: 149px;
+  position: absolute;
+}
+.loginscreen-vector62 {
+  top: 257.3310241699219px;
+  left: 29.52796745300293px;
+  width: 15px;
+  height: 5px;
+  position: absolute;
+}
+.loginscreen-vector63 {
+  top: 21.721628189086914px;
+  left: 43.291847229003906px;
+  width: 43px;
+  height: 36px;
+  position: absolute;
+}
+.loginscreen-vector64 {
+  top: 17.804706573486328px;
+  left: 63.998416900634766px;
+  width: 11px;
+  height: 10px;
+  position: absolute;
+}
+.loginscreen-vector65 {
+  top: 14.187433242797852px;
+  left: 61.73644256591797px;
+  width: 10px;
+  height: 8px;
+  position: absolute;
+}
+.loginscreen-vector66 {
+  top: 38.7834358215332px;
+  left: 41.92742919921875px;
+  width: 23px;
+  height: 22px;
+  position: absolute;
+}
+.loginscreen-vector67 {
+  top: 38.773223876953125px;
+  left: 10.27841567993164px;
+  width: 59px;
+  height: 78px;
+  position: absolute;
+}
+.loginscreen-vector68 {
+  top: 28.773948669433594px;
+  left: 25.08250617980957px;
+  width: 16px;
+  height: 22px;
+  position: absolute;
+}
+.loginscreen-vector69 {
+  top: 46.98284149169922px;
+  left: 38.833648681640625px;
+  width: 4px;
+  height: 4px;
+  position: absolute;
+}
+.loginscreen-vector70 {
+  top: 49.22951889038086px;
+  left: 31.527616500854492px;
+  width: 7px;
+  height: 2px;
+  position: absolute;
+}
+.loginscreen-vector71 {
+  top: 29.809612274169922px;
+  left: 28.320533752441406px;
+  width: 9px;
+  height: 8px;
+  opacity: 0.20;
+  position: absolute;
+}
+.loginscreen-vector72 {
+  top: 7.679134368896484px;
+  left: 34.373172760009766px;
+  width: 7px;
+  height: 12px;
+  position: absolute;
+}
+.loginscreen-vector73 {
+  top: 7.247645378112793px;
+  left: 20.54854393005371px;
+  width: 25px;
+  height: 28px;
+  position: absolute;
+}
+.loginscreen-vector74 {
+  top: 25.262548446655273px;
+  left: 33.826904296875px;
+  width: 9px;
+  height: 4px;
+  position: absolute;
+}
+.loginscreen-vector75 {
+  top: 27.424877166748047px;
+  left: 36.349613189697266px;
+  width: 6px;
+  height: 2px;
+  position: absolute;
+}
+.loginscreen-vector76 {
+  top: 25.270095825195312px;
+  left: 34.09628677368164px;
+  width: 8px;
+  height: 2px;
+  position: absolute;
+}
+.loginscreen-vector77 {
+  top: 25.630334854125977px;
+  left: 32.08275604248047px;
+  width: 1px;
+  height: 2px;
+  opacity: 0.20;
+  position: absolute;
+}
+.loginscreen-vector78 {
+  top: 2.0107314586639404px;
+  left: 16.118330001831055px;
+  width: 13px;
+  height: 24px;
+  position: absolute;
+}
+.loginscreen-vector79 {
+  top: -5.258016244624741e-13px;
+  left: 25.897930145263672px;
+  width: 9px;
+  height: 13px;
+  position: absolute;
+}
+.loginscreen-vector80 {
+  top: 0.8851746916770935px;
+  left: 32.31983184814453px;
+  width: 6px;
+  height: 10px;
+  position: absolute;
+}
+.loginscreen-vector81 {
+  top: 20.205642700195312px;
+  left: 27.728303909301758px;
+  width: 3px;
+  height: 1px;
+  opacity: 0.20;
+  position: absolute;
+}
+.loginscreen-vector82 {
+  top: 20.94854164123535px;
+  left: 28.397205352783203px;
+  width: 3px;
+  height: 1px;
+  opacity: 0.20;
+  position: absolute;
+}
+.loginscreen-vector83 {
+  top: 15.587997436523438px;
+  left: 40.62602996826172px;
+  width: 1px;
+  height: 1px;
+  opacity: 0.20;
+  position: absolute;
+}
+.loginscreen-vector84 {
+  top: 16.557071685791016px;
+  left: 40.76413345336914px;
+  width: 1px;
+  height: 1px;
+  opacity: 0.20;
+  position: absolute;
+}
+.loginscreen-vector85 {
+  top: 22.76572608947754px;
+  left: 20.272567749023438px;
+  width: 8px;
+  height: 8px;
+  position: absolute;
+}
+.loginscreen-vector86 {
+  top: 18.95179557800293px;
+  left: 31.837493896484375px;
+  width: 2px;
+  height: 2px;
+  position: absolute;
+}
+.loginscreen-vector87 {
+  top: 16.17552375793457px;
+  left: 38.97038650512695px;
+  width: 2px;
+  height: 2px;
+  position: absolute;
+}
+.loginscreen-vector88 {
+  top: 18.419979095458984px;
+  left: 36.72661209106445px;
+  width: 5px;
+  height: 5px;
+  position: absolute;
+}
+.loginscreen-vector89 {
+  top: 14.629353523254395px;
+  left: 28.643152236938477px;
+  width: 3px;
+  height: 3px;
+  position: absolute;
+}
+.loginscreen-vector90 {
+  top: 12.168266296386719px;
+  left: 36.684749603271484px;
+  width: 4px;
+  height: 1px;
+  position: absolute;
+}
+.loginscreen-vector91 {
+  top: 49.72138214111328px;
+  left: 0.00009827032772591338px;
+  width: 26px;
+  height: 67px;
+  position: absolute;
+}
+.loginscreen-vector92 {
+  top: 45.50703430175781px;
+  left: 3.909526824951172px;
+  width: 20px;
+  height: 30px;
+  position: absolute;
+}
+.loginscreen-vector93 {
+  top: 109.43915557861328px;
+  left: 19.02577018737793px;
+  width: 11px;
+  height: 10px;
+  position: absolute;
+}
+.loginscreen-vector94 {
+  top: 113.01802825927734px;
+  left: 23.40593147277832px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.loginscreen-vector95 {
+  top: 41.66447448730469px;
+  left: 23.882583618164062px;
+  width: 12px;
+  height: 13px;
+  position: absolute;
+}
+.loginscreen-vector96 {
+  top: 38.73793411254883px;
+  left: 37.31110382080078px;
+  width: 9px;
+  height: 11px;
+  position: absolute;
+}
+.loginscreen-icon1 {
+  gap: 10px;
+  top: 62px;
+  left: 16px;
+  width: 20px;
+  height: 20px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.loginscreen-text12 {
+  color: var(--dl-color-shades_gray-dark800);
+  height: auto;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Font Awesome 6 Pro;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.loginscreen-frame16 {
+  gap: 20px;
+  top: 399px;
+  left: 32px;
+  width: 328px;
+  display: flex;
+  padding: 0 10px;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.loginscreen-text-styles1 {
+  width: 67px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.loginscreen-text13 {
+  color: var(--dl-color-shades_gray-dark900);
+  height: auto;
+  flex-grow: 1;
+  text-align: left;
+  line-height: 120.00000476837158%;
+}
+.loginscreen-frame15 {
+  gap: 12px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.loginscreen-frame12 {
+  gap: 10px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+}
+.loginscreen-icon2 {
+  gap: 10px;
+  width: 16px;
+  height: 16px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.loginscreen-text15 {
+  color: var(--dl-color-shades_gray-dark800);
+  height: auto;
+  text-align: left;
+  line-height: 100%;
+}
+.loginscreen-text-styles2 {
+  display: flex;
+  padding: 10px 4px 10px 0;
+  flex-grow: 1;
+  align-items: center;
+  border-color: rgba(227, 228, 231, 1);
+  border-style: solid;
+  border-width: 0 0 0.5px;
+}
+.loginscreen-text16 {
+  color: var(--dl-color-gery-dark400);
+  height: auto;
+  text-align: left;
+  line-height: 100%;
+}
+.loginscreen-frame14 {
+  gap: 10px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+}
+.loginscreen-icon3 {
+  gap: 10px;
+  width: 16px;
+  height: 16px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.loginscreen-text18 {
+  color: var(--dl-color-gery-dark800);
+  height: auto;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Font Awesome 6 Pro;
+  font-weight: 400;
+  line-height: 12px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.loginscreen-text-styles3 {
+  display: flex;
+  padding: 10px 4px 10px 0;
+  flex-grow: 1;
+  align-items: center;
+  border-color: rgba(227, 228, 231, 1);
+  border-style: solid;
+  border-width: 0 0 0.5px;
+}
+.loginscreen-text19 {
+  color: var(--dl-color-gery-dark400);
+  height: auto;
+  text-align: left;
+  line-height: 100%;
+}
+.loginscreen-text-styles4 {
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: flex-end;
+}
+.loginscreen-text21 {
+  color: var(--dl-color-accent_blue-blue900);
+  height: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+}
+.loginscreen-frame18 {
+  gap: 18px;
+  top: 604px;
+  left: 32px;
+  width: 328px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-direction: column;
+}
+.loginscreen-buttons1 {
+  gap: 4px;
+  width: 328px;
+  display: flex;
+  padding: 8px 12px;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 6px;
+  justify-content: center;
+  background-color: var(--dl-color-default-primary);
+}
+.loginscreen-text23 {
+  color: var(--dl-color-shades-white);
+  height: auto;
+  text-align: left;
+  line-height: 20px;
+}
+.loginscreen-frame17 {
+  gap: 4px;
+  display: flex;
+  align-items: center;
+}
+.loginscreen-line13 {
+  width: 50px;
+  height: 1px;
+}
+.loginscreen-text-styles5 {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+.loginscreen-text25 {
+  color: var(--dl-color-gery-dark500);
+  height: auto;
+  font-size: 11px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.loginscreen-line14 {
+  width: 50px;
+  height: 1px;
+}
+.loginscreen-buttons2 {
+  gap: 4px;
+  width: 328px;
+  display: flex;
+  padding: 8px 24px;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 6px;
+  justify-content: center;
+  background-color: var(--dl-color-gery-dark300);
+}
+.loginscreen-svg01 {
+  width: 16px;
+  height: 16px;
+}
+.loginscreen-text27 {
+  color: var(--dl-color-gery-dark600);
+  height: auto;
+  flex-grow: 1;
+  text-align: center;
+  line-height: 20px;
+}

@@ -1,0 +1,200 @@
+.proposalsubmitted-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.proposalsubmitted-proposalsubmitted {
+  width: 100%;
+  height: 852px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.proposalsubmitted-rectangle25 {
+  top: 0px;
+  left: 0px;
+  width: 393px;
+  height: 852px;
+  position: absolute;
+}
+.proposalsubmitted-group10 {
+  top: 381px;
+  left: 86px;
+  width: 221px;
+  height: 90px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.proposalsubmitted-text1 {
+  top: 61px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: 120.00000476837158%;
+}
+.proposalsubmitted-checksquare {
+  top: 0px;
+  left: 81px;
+  width: 60px;
+  height: 60px;
+  position: absolute;
+}
+.proposalsubmitted-group9 {
+  top: 0px;
+  left: 16px;
+  width: 361px;
+  height: 42.922664642333984px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.proposalsubmitted-frame20 {
+  gap: 24px;
+  top: 0px;
+  left: 0px;
+  display: flex;
+  position: absolute;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+.proposalsubmitted-status-bari-phone14 {
+  width: 361px;
+  height: 42.922664642333984px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+}
+.proposalsubmitted-left-side {
+  top: 14px;
+  left: 22px;
+  width: 54px;
+  height: 21px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.proposalsubmitted-frame-status-bartime {
+  top: 0px;
+  left: 0px;
+  width: 54px;
+  height: 21px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 24px;
+}
+.proposalsubmitted-text3 {
+  top: 1px;
+  color: rgba(255, 255, 255, 1);
+  width: 54px;
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: 22px;
+}
+.proposalsubmitted-right-side {
+  top: 19px;
+  left: 262px;
+  width: 77.40119171142578px;
+  height: 13px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.proposalsubmitted-battery {
+  top: 0px;
+  left: 50px;
+  width: 27.401193618774414px;
+  height: 13px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.proposalsubmitted-outline {
+  top: 0px;
+  left: 0px;
+  width: 25px;
+  height: 13px;
+  opacity: 0.35;
+  position: absolute;
+}
+.proposalsubmitted-battery-end {
+  top: 5px;
+  left: 26px;
+  width: 1px;
+  height: 4px;
+  opacity: 0.40;
+  position: absolute;
+}
+.proposalsubmitted-fill {
+  top: 2px;
+  left: 2px;
+  width: 21px;
+  height: 9px;
+  position: absolute;
+}
+.proposalsubmitted-wifi {
+  top: 1.0000001192092896px;
+  left: 26px;
+  width: 17px;
+  height: 12px;
+  position: absolute;
+}
+.proposalsubmitted-icon-mobile-signal {
+  top: 1px;
+  left: 0px;
+  width: 18px;
+  height: 12px;
+  position: absolute;
+}
+.proposalsubmitted-hoa-insight-logo21 {
+  top: 181px;
+  left: 97px;
+  width: 200px;
+  height: 200px;
+  position: absolute;
+}
+.proposalsubmitted-button {
+  gap: 8px;
+  top: 664px;
+  left: 154px;
+  width: 88px;
+  display: flex;
+  padding: 12px;
+  overflow: hidden;
+  position: absolute;
+  align-items: center;
+  border-color: rgba(44, 44, 44, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 8px;
+  justify-content: center;
+  background-color: var(--dl-color-default-d9d9d9);
+}
+.proposalsubmitted-text5 {
+  color: var(--dl-color-default-primary);
+  height: auto;
+  text-align: left;
+  line-height: 100%;
+}
+.proposalsubmitted-check {
+  width: 16px;
+  height: 16px;
+}

@@ -1,0 +1,717 @@
+.project-proposalscreen-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.project-proposalscreen-project-proposalscreen {
+  gap: 20px;
+  width: 100%;
+  height: auto;
+  display: flex;
+  padding: 0 16px;
+  overflow: hidden;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 16px;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+.project-proposalscreen-group6 {
+  width: 361px;
+  height: 42.922664642333984px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.project-proposalscreen-status-bari-phone14 {
+  top: 0px;
+  left: 0px;
+  width: 361px;
+  height: 42.922664642333984px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-self: stretch;
+  align-items: flex-start;
+}
+.project-proposalscreen-left-side {
+  top: 14px;
+  left: 22px;
+  width: 54px;
+  height: 21px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.project-proposalscreen-frame-status-bartime {
+  top: 0px;
+  left: 0px;
+  width: 54px;
+  height: 21px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 24px;
+}
+.project-proposalscreen-text10 {
+  top: 1px;
+  color: rgba(36, 36, 36, 1);
+  width: 54px;
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: 22px;
+}
+.project-proposalscreen-right-side {
+  top: 19px;
+  left: 262px;
+  width: 77.40119171142578px;
+  height: 13px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.project-proposalscreen-battery {
+  top: 0px;
+  left: 50px;
+  width: 27.401193618774414px;
+  height: 13px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.project-proposalscreen-outline {
+  top: 0px;
+  left: 0px;
+  width: 25px;
+  height: 13px;
+  opacity: 0.35;
+  position: absolute;
+}
+.project-proposalscreen-battery-end {
+  top: 5px;
+  left: 26px;
+  width: 1px;
+  height: 4px;
+  opacity: 0.40;
+  position: absolute;
+}
+.project-proposalscreen-fill {
+  top: 2px;
+  left: 2px;
+  width: 21px;
+  height: 9px;
+  position: absolute;
+}
+.project-proposalscreen-wifi {
+  top: 1.0000001192092896px;
+  left: 26px;
+  width: 17px;
+  height: 12px;
+  position: absolute;
+}
+.project-proposalscreen-icon-mobile-signal {
+  top: 1px;
+  left: 0px;
+  width: 18px;
+  height: 12px;
+  position: absolute;
+}
+.project-proposalscreen-form-shipping {
+  gap: 24px;
+  display: flex;
+  padding: 24px;
+  align-items: flex-start;
+  border-color: rgba(217, 217, 217, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 8px;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+.project-proposalscreen-frame51 {
+  gap: 24px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.project-proposalscreen-legend {
+  gap: 4px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.project-proposalscreen-text12 {
+  color: rgba(30, 30, 30, 1);
+  height: auto;
+  text-align: left;
+  line-height: 120.00000476837158%;
+}
+.project-proposalscreen-text14 {
+  display: flex;
+  align-items: flex-start;
+}
+.project-proposalscreen-text15 {
+  color: rgba(117, 117, 117, 1);
+  height: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+}
+.project-proposalscreen-avatar {
+  width: 40px;
+  height: 40px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 9999px;
+}
+.project-proposalscreen-shape {
+  top: 0px;
+  left: 0px;
+  width: 40px;
+  height: 40px;
+  position: absolute;
+}
+.project-proposalscreen-input-field {
+  gap: 8px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.project-proposalscreen-text17 {
+  color: rgba(30, 30, 30, 1);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 139.9999976158142%;
+}
+.project-proposalscreen-input {
+  color: rgba(179, 179, 179, 1);
+  display: flex;
+  padding: 12px 16px;
+  overflow: hidden;
+  font-size: 16px;
+  align-self: stretch;
+  text-align: left;
+  align-items: center;
+  flex-shrink: 0;
+  font-family: Inter;
+  font-weight: 400;
+  border-color: rgba(217, 217, 217, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 8px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.project-proposalscreen-select-field1 {
+  gap: 8px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.project-proposalscreen-text19 {
+  color: rgba(30, 30, 30, 1);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 139.9999976158142%;
+}
+.project-proposalscreen-select1 {
+  gap: 8px;
+  display: flex;
+  padding: 12px 12px 12px 16px;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(217, 217, 217, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 8px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.project-proposalscreen-text21 {
+  color: rgba(30, 30, 30, 1);
+  height: auto;
+  flex-grow: 1;
+  text-align: left;
+  line-height: 100%;
+}
+.project-proposalscreen-chevrondown1 {
+  width: 16px;
+  height: 16px;
+}
+.project-proposalscreen-textarea-field1 {
+  gap: 8px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.project-proposalscreen-text23 {
+  color: rgba(30, 30, 30, 1);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 139.9999976158142%;
+}
+.project-proposalscreen-text25 {
+  color: rgba(117, 117, 117, 1);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 139.9999976158142%;
+}
+.project-proposalscreen-textarea1 {
+  display: flex;
+  padding: 12px 16px;
+  overflow: hidden;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(217, 217, 217, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 8px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.project-proposalscreen-text27 {
+  color: rgba(179, 179, 179, 1);
+  height: auto;
+  flex-grow: 1;
+  text-align: left;
+  line-height: 139.9999976158142%;
+}
+.project-proposalscreen-drag {
+  top: 67.35354614257812px;
+  left: 260.3535461425781px;
+  width: 7px;
+  height: 7px;
+  z-index: 1;
+  position: absolute;
+}
+.project-proposalscreen-textarea-field2 {
+  gap: 8px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.project-proposalscreen-group41 {
+  width: 272px;
+  height: 22px;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.project-proposalscreen-text29 {
+  color: rgba(30, 30, 30, 1);
+  width: 272px;
+  height: auto;
+  position: absolute;
+  align-self: stretch;
+  text-align: left;
+  line-height: 139.9999976158142%;
+}
+.project-proposalscreen-group42 {
+  top: 1px;
+  left: 115.99996185302734px;
+  width: 20px;
+  height: 20px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.project-proposalscreen-paperclip {
+  top: 0px;
+  left: 0px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.project-proposalscreen-textarea2 {
+  display: flex;
+  padding: 12px 16px;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(217, 217, 217, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 8px;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+.project-proposalscreen-frame4 {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.project-proposalscreen-text31 {
+  color: rgba(179, 179, 179, 1);
+  height: auto;
+  text-align: center;
+  line-height: 139.9999976158142%;
+}
+.project-proposalscreen-uploadcloud {
+  width: 24px;
+  height: 24px;
+}
+.project-proposalscreen-textarea-field3 {
+  gap: 8px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.project-proposalscreen-group43 {
+  width: 272px;
+  height: 106px;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.project-proposalscreen-text33 {
+  color: rgba(30, 30, 30, 1);
+  width: 272px;
+  height: auto;
+  position: absolute;
+  align-self: stretch;
+  text-align: left;
+  line-height: 139.9999976158142%;
+}
+.project-proposalscreen-slider-field {
+  gap: 12px;
+  top: 30px;
+  left: 7.999976634979248px;
+  width: 256px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.project-proposalscreen-frame52 {
+  gap: 12px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.project-proposalscreen-search1 {
+  gap: 8px;
+  height: 24px;
+  display: flex;
+  padding: 12px 16px;
+  overflow: hidden;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(217, 217, 217, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 9999px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.project-proposalscreen-text35 {
+  color: rgba(30, 30, 30, 1);
+  height: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+}
+.project-proposalscreen-search2 {
+  gap: 8px;
+  height: 24px;
+  display: flex;
+  padding: 12px 16px;
+  overflow: hidden;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(217, 217, 217, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 9999px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.project-proposalscreen-text37 {
+  color: rgba(30, 30, 30, 1);
+  height: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+}
+.project-proposalscreen-block {
+  width: 256px;
+  height: 8px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 9999px;
+  justify-content: center;
+  background-color: rgba(230, 230, 230, 1);
+}
+.project-proposalscreen-group5 {
+  top: -4.92266845703125px;
+  left: -0.499969482421875px;
+  width: 256px;
+  height: 17px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.project-proposalscreen-knob-start1 {
+  top: 1px;
+  left: 0px;
+  width: 16px;
+  height: 16px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 9999px;
+  background-color: rgba(44, 44, 44, 1);
+}
+.project-proposalscreen-slider {
+  top: 6px;
+  left: 10px;
+  width: 235px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: var(--dl-color-default-primary);
+}
+.project-proposalscreen-knob-start2 {
+  top: 0px;
+  left: 240px;
+  width: 16px;
+  height: 16px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 9999px;
+  background-color: rgba(44, 44, 44, 1);
+}
+.project-proposalscreen-frame53 {
+  gap: 12px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.project-proposalscreen-label1 {
+  gap: 4px;
+  width: 53px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.project-proposalscreen-slider-output1 {
+  display: flex;
+  align-items: center;
+}
+.project-proposalscreen-text39 {
+  color: rgba(30, 30, 30, 1);
+  height: auto;
+  text-align: right;
+  line-height: 139.9999976158142%;
+}
+.project-proposalscreen-text40 {
+  color: rgba(30, 30, 30, 1);
+  height: auto;
+  text-align: right;
+  line-height: 139.9999976158142%;
+}
+.project-proposalscreen-label2 {
+  gap: 4px;
+  width: 69px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: flex-end;
+}
+.project-proposalscreen-slider-output2 {
+  display: flex;
+  align-items: center;
+}
+.project-proposalscreen-text42 {
+  color: rgba(30, 30, 30, 1);
+  height: auto;
+  text-align: right;
+  line-height: 139.9999976158142%;
+}
+.project-proposalscreen-text43 {
+  color: rgba(30, 30, 30, 1);
+  height: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+}
+.project-proposalscreen-select-field2 {
+  gap: 8px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.project-proposalscreen-text45 {
+  color: rgba(30, 30, 30, 1);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 139.9999976158142%;
+}
+.project-proposalscreen-select2 {
+  gap: 8px;
+  display: flex;
+  padding: 12px 12px 12px 16px;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(217, 217, 217, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 8px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.project-proposalscreen-text47 {
+  color: rgba(30, 30, 30, 1);
+  height: auto;
+  flex-grow: 1;
+  text-align: left;
+  line-height: 100%;
+}
+.project-proposalscreen-chevrondown2 {
+  width: 16px;
+  height: 16px;
+}
+.project-proposalscreen-button-group1 {
+  gap: 16px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+}
+.project-proposalscreen-button1 {
+  gap: 8px;
+  display: flex;
+  padding: 12px;
+  overflow: hidden;
+  flex-grow: 1;
+  align-items: center;
+  border-color: rgba(44, 44, 44, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 8px;
+  justify-content: center;
+  background-color: var(--dl-color-default-primary);
+}
+.project-proposalscreen-text49 {
+  color: rgba(245, 245, 245, 1);
+  height: auto;
+  text-align: left;
+  line-height: 100%;
+}
+.project-proposalscreen-button-group2 {
+  gap: 16px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+}
+.project-proposalscreen-button2 {
+  gap: 8px;
+  display: flex;
+  padding: 12px;
+  overflow: hidden;
+  flex-grow: 1;
+  align-items: center;
+  border-color: rgba(221, 214, 248, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 8px;
+  justify-content: center;
+  background-color: var(--dl-color-default-d9d9d9);
+}
+.project-proposalscreen-text51 {
+  color: var(--dl-color-default-primary);
+  height: auto;
+  text-align: left;
+  line-height: 100%;
+}
+.project-proposalscreen-navigation-button-list {
+  width: 343px;
+  height: 68px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: center;
+}
+.project-proposalscreen-navigation-button1 {
+  gap: 8px;
+  height: 68px;
+  display: flex;
+  padding: 8px;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.project-proposalscreen-activity {
+  width: 24px;
+  height: 24px;
+}
+.project-proposalscreen-text53 {
+  color: rgba(44, 44, 44, 1);
+  height: auto;
+  text-align: center;
+  line-height: 100%;
+}
+.project-proposalscreen-navigation-button2 {
+  gap: 8px;
+  height: 68px;
+  display: flex;
+  padding: 8px;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.project-proposalscreen-star {
+  width: 24px;
+  height: 24px;
+}
+.project-proposalscreen-text55 {
+  color: rgba(117, 117, 117, 1);
+  height: auto;
+  text-align: center;
+  line-height: 100%;
+}
